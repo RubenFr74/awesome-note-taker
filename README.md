@@ -44,6 +44,12 @@ $ npm run start
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
+## Screenshot
+
+![image](https://github.com/RubenFr74/awesome-note-taker/assets/119752452/976566c0-361a-4140-8544-8b74c020e78b)
+
+##Deployed Link
+https://awesome-note-taker2.herokuapp.com/
 
 
 
